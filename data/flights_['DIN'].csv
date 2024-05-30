@@ -1,0 +1,24 @@
+Origin_Airport,Destination_Airport,Departure_Time,Arrival_Time,Airline,Duration,Date,Price
+DIN,HAN,2:40 PM,3:40 PM,Vietnam Airlines,1 hr,2024-06-13,"₫1,122,000"
+DIN,HAN,2:40 PM,3:40 PM,Vietnam Airlines,1 hr,2024-06-14,"₫1,025,000"
+DIN,HAN,7:00 PM,8:00 PM,Vietnam Airlines,1 hr,2024-06-14,"₫1,025,000"
+DIN,HAN,4:20 PM,5:00 PM,VietJet Air,40 min,2024-06-14,"₫1,094,200"
+DIN,HAN,,,,,2024-06-14,
+DIN,HAN,,,,,2024-06-14,
+DIN,HAN,,,,,2024-06-14,
+DIN,HAN,7:00 PM,8:00 PM,Vietnam Airlines,1 hr,2024-06-15,"₫1,122,000"
+DIN,HAN,2:40 PM,3:40 PM,Vietnam Airlines,1 hr,2024-06-15,"₫1,749,000"
+DIN,HAN,7:00 PM,8:00 PM,Vietnam Airlines,1 hr,2024-06-16,"₫1,511,000"
+DIN,HAN,2:40 PM,3:40 PM,Vietnam Airlines,1 hr,2024-06-16,"₫1,865,000"
+DIN,HAN,4:20 PM,5:00 PM,VietJet Air,40 min,2024-06-17,"₫1,094,200"
+DIN,HAN,2:40 PM,3:40 PM,Vietnam Airlines,1 hr,2024-06-17,"₫1,209,000"
+DIN,HAN,7:00 PM,8:00 PM,Vietnam Airlines,1 hr,2024-06-17,"₫1,209,000"
+DIN,HAN,2:40 PM,3:40 PM,Vietnam Airlines,1 hr,2024-06-18,"₫1,025,000"
+DIN,HAN,4:20 PM,5:00 PM,VietJet Air,40 min,2024-06-19,"₫856,600"
+DIN,HAN,2:40 PM,3:40 PM,Vietnam Airlines,1 hr,2024-06-19,"₫1,025,000"
+DIN,HAN,2:40 PM,3:40 PM,Vietnam Airlines,1 hr,2024-06-20,"₫1,025,000"
+DIN,SGN,12:10 PM,2:20 PM,VietJet Air,2 hr 10 min,2024-06-13,"₫2,044,600"
+DIN,SGN,12:10 PM,2:20 PM,VietJet Air,2 hr 10 min,2024-06-15,"₫1,828,600"
+DIN,SGN,12:10 PM,2:20 PM,VietJet Air,2 hr 10 min,2024-06-16,"₫3,543,218"
+DIN,SGN,12:10 PM,2:20 PM,VietJet Air,2 hr 10 min,2024-06-18,"₫1,828,600"
+DIN,SGN,12:10 PM,2:20 PM,VietJet Air,2 hr 10 min,2024-06-20,"₫1,828,600"
