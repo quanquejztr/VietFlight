@@ -33,17 +33,13 @@ for origin in origin_airports:
                         flight_times = driver.find_elements(By.XPATH, '//div[@class= "gvkrdb AdWm1c tPgKwe ogfYpf"]')
                         flight_prices = driver.find_elements(By.XPATH, '//div[@class="BVAVmf I11szd POX3ye"]//span[@role="text"]')
 
-                        # Check if all lists have the same length
-                        if len(departure_times) == len(arrival_times) == len(airliners) == len(flight_times) == len(flight_prices):
-                            for i in range(len(departure_time)):
-                                departure_time = departure_times[i].text
-                                arrival_time = arrival_times[i].text
-                                airline = airliners[i].text
-                                flight_time = flight_times[i].text
-                                flight_price = flight_prices[i].text
-                                flights_info.append([origin, destination, departure_time, arrival_time, airline, flight_time, date, flight_price])
-                        else:
-                            continue
+                        for i in range(len(departure_time)):
+                            departure_time = departure_times[i].text
+                            arrival_time = arrival_times[i].text
+                            airline = airliners[i].text
+                            flight_time = flight_times[i].text
+                            flight_price = flight_prices[i].text
+                            flights_info.append([origin, destination, departure_time, arrival_time, airline, flight_time, date, flight_price])
                     except Exception as e:
                         print(f"An error occurred for {origin} to {destination} on {date}: {str(e)}")
                         continue
