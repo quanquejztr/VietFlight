@@ -1,0 +1,9 @@
+,Origin_Airport,Destination_Airport,Departure_Time,Arrival_Time,Airline,Duration,Date,Price
+0,CAH,SGN,3:00 PM,4:15 PM,Vietnam Airlines,1 hr 15 min,2024-06-13,"₫1,090,000"
+1,CAH,SGN,3:00 PM,4:15 PM,Vietnam Airlines,1 hr 15 min,2024-06-14,"₫1,176,000"
+2,CAH,SGN,3:00 PM,4:15 PM,Vietnam Airlines,1 hr 15 min,2024-06-15,"₫1,263,000"
+3,CAH,SGN,3:00 PM,4:15 PM,Vietnam Airlines,1 hr 15 min,2024-06-17,"₫1,176,000"
+4,CAH,SGN,3:00 PM,4:15 PM,Vietnam Airlines,1 hr 15 min,2024-06-18,"₫1,090,000"
+5,CAH,SGN,3:00 PM,4:15 PM,Vietnam Airlines,1 hr 15 min,2024-06-19,"₫1,090,000"
+6,CAH,SGN,3:00 PM,4:15 PM,Vietnam Airlines,1 hr 15 min,2024-06-20,"₫1,090,000"
+
