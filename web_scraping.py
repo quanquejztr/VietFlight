@@ -22,7 +22,6 @@ for origin in origin_airports:
             if origin != destination:
                 # Construct the Google Flights URL
                 url = f'https://www.google.com/travel/flights?q=Flights%20to%20{destination}%20from%20{origin}%20on%20{date}%20oneway%20nonstop&curr=VND'
-                print(f"Processing URL: {url}")
 
                 # Initialize the Selenium WebDriver
                 driver = webdriver.Chrome()
@@ -30,7 +29,7 @@ for origin in origin_airports:
 
                 try:
                     # Initialize the WebDriverWait object
-                    wait = WebDriverWait(driver, 10)
+                    wait = WebDriverWait(driver, 2)
 
                     # Wait until the departure time elements are present
                     wait.until(EC.presence_of_all_elements_located((By.XPATH, '//span[@role="text" and contains(@aria-label, "Departure time: ")]')))
