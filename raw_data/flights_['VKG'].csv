@@ -1,4 +1,5 @@
-,Origin_Airport,Destination_Airport,Departure_Time,Arrival_Time,Airline,Duration,Date,Price
-0,VKG,SGN,10:10 AM,11:15 AM,Vietnam Airlines,1 hr 5 min,2024-06-13,"₫1,068,000"
-1,VKG,SGN,10:10 AM,11:15 AM,Vietnam Airlines,1 hr 5 min,2024-06-18,"₫993,000"
-2,VKG,SGN,10:10 AM,11:15 AM,Vietnam Airlines,1 hr 5 min,2024-06-20,"₫1,068,000"
+Origin_Airport,Destination_Airport,Departure_Time,Arrival_Time,Airline,Duration,Date,Price
+VKG,SGN,10:10 AM,11:15 AM,Vietnam Airlines,1 hr 5 min,2024-06-27,"₫1,068,000"
+VKG,SGN,10:10 AM,11:15 AM,Vietnam Airlines,1 hr 5 min,2024-07-02,"₫993,000"
+VKG,SGN,10:10 AM,11:15 AM,Vietnam Airlines,1 hr 5 min,2024-07-04,"₫993,000"
+VKG,SGN,10:10 AM,11:15 AM,Vietnam Airlines,1 hr 5 min,2024-07-09,"₫993,000"

@@ -7,9 +7,9 @@ import pandas as pd
 import os
 
 # Define lists of airports and dates
-origin_airports = ['BMV', 'CAH', 'VCA', 'VCS', 'DLI', 'DAD', 'DIN', 'VDH', 'VDO', 'HPH', 'HAN', 'SGN', 'HUI', 'CXR', 'PQC', 'PXU', 'UIH', 'VKG', 'VCL', 'THD', 'TBB', 'VII']
+origin_airports = ['HAN', 'SGN', 'HUI', 'CXR', 'PQC', 'PXU', 'UIH', 'VKG', 'VCL', 'THD', 'TBB', 'VII']
 destination_airports = ['BMV', 'CAH', 'VCA', 'VCS', 'DLI', 'DAD', 'DIN', 'VDH', 'VDO', 'HPH', 'HAN', 'SGN', 'HUI', 'CXR', 'PQC', 'PXU', 'UIH', 'VKG', 'VCL', 'THD', 'TBB', 'VII']
-dates = ['2024-06-13', '2024-06-14', '2024-06-15', '2024-06-16', '2024-06-17', '2024-06-18', '2024-06-19', '2024-06-20']
+dates = ['2024-06-26','2024-06-27','2024-06-28','2024-06-29', '2024-06-30', '2024-07-01', '2024-07-02', '2024-07-03', '2024-07-04', '2024-07-05', '2024-07-06','2024-07-07','2024-07-08','2024-07-09','2024-07-10','2024-07-11','2024-07-12','2024-07-13','2024-07-14','2024-07-15']
 
 # Iterate over origin airports
 for origin in origin_airports:

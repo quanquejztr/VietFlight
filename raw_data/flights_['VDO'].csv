@@ -1,8 +1,16 @@
 Origin_Airport,Destination_Airport,Departure_Time,Arrival_Time,Airline,Duration,Date,Price
-VDO,SGN,10:00 AM,12:10 PM,VietJet Air,2 hr 10 min,2024-06-14,"₫1,868,600"
-VDO,SGN,8:50 AM,11:05 AM,Vietnam Airlines,2 hr 15 min,2024-06-15,"₫1,940,000"
-VDO,SGN,10:00 AM,12:10 PM,VietJet Air,2 hr 10 min,2024-06-16,"₫2,084,600"
-VDO,SGN,8:50 AM,11:05 AM,Vietnam Airlines,2 hr 15 min,2024-06-18,"₫1,713,000"
-VDO,SGN,,,,,2024-06-18,
-VDO,SGN,10:00 AM,12:10 PM,VietJet Air,2 hr 10 min,2024-06-19,"₫1,868,600"
-VDO,SGN,8:50 AM,11:05 AM,Vietnam Airlines,2 hr 15 min,2024-06-20,"₫1,713,000"
+VDO,SGN,9:50 AM,12:05 PM,VietJet Air,2 hr 15 min,2024-06-26,"₫1,868,600"
+VDO,SGN,8:50 AM,11:05 AM,Vietnam Airlines,2 hr 15 min,2024-06-27,"₫1,713,000"
+VDO,SGN,9:50 AM,12:05 PM,VietJet Air,2 hr 15 min,2024-06-28,"₫1,868,600"
+VDO,SGN,,,,,2024-06-28,
+VDO,SGN,8:50 AM,11:05 AM,Vietnam Airlines,2 hr 15 min,2024-06-29,"₫1,940,000"
+VDO,SGN,9:50 AM,12:05 PM,VietJet Air,2 hr 15 min,2024-06-30,"₫1,868,600"
+VDO,SGN,9:50 AM,12:05 PM,VietJet Air,2 hr 15 min,2024-07-03,"₫1,868,600"
+VDO,SGN,8:55 AM,11:05 AM,Vietnam Airlines,2 hr 10 min,2024-07-04,"₫1,940,000"
+VDO,SGN,,,,,2024-07-04,
+VDO,SGN,9:50 AM,12:05 PM,VietJet Air,2 hr 15 min,2024-07-05,"₫1,868,600"
+VDO,SGN,8:55 AM,11:05 AM,Vietnam Airlines,2 hr 10 min,2024-07-06,"₫1,940,000"
+VDO,SGN,9:50 AM,12:05 PM,VietJet Air,2 hr 15 min,2024-07-07,"₫2,084,600"
+VDO,SGN,9:50 AM,12:05 PM,VietJet Air,2 hr 15 min,2024-07-10,"₫2,084,600"
+VDO,SGN,9:50 AM,12:05 PM,VietJet Air,2 hr 15 min,2024-07-12,"₫2,084,600"
+VDO,SGN,9:50 AM,12:05 PM,VietJet Air,2 hr 15 min,2024-07-14,"₫2,084,600"
