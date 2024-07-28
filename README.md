@@ -28,11 +28,11 @@ The data was split into 70% training and 30 % test set. 5 models were tested and
 
 | Model | Accuracy Rate | R2 Score |
 |:---:|:---:|:---:|
-| ExtraTreesRegressor Model | 91.01% | 69.81%|
-| Linear Regression Model | 82.52%  | 29.59%|
-| Random Forest Model| 91.13% |	62.52%|
-|Ridge Model| 82.53%| 29.58%|
-|Lasso Model| 82.53%| 29.59%|
+| ExtraTreesRegressor Model | 91.17% | 60.15%|
+| Linear Regression Model | 82.52%  | 29.45%|
+| Random Forest Model| 91.30% |	67.39%|
+|Ridge Model| 82.52%| 29.42%|
+|Lasso Model| 82.52%| 29.42%|
 
 Therefore, Random Forest model is able to predict flight ticket prices within around  ≈ 163,004 VND (≈ 6.43 USD)
 
