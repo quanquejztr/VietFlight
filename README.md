@@ -72,7 +72,7 @@ Raw, unmerged dataset can be found **[here](https://github.com/quanquejztr/VietF
 │ 	├── flights['VDH'].csv 
 │ 	├── flights['VDO'].csv 
 │ 	├── flights['VII'].csv 
-│   └── flights['VKG'].csv 
+│   └── flights['VKG'].csv
 ├── Data Cleaning.ipynb 
 ├── Flight Analysis.ipynb 
 ├── Flight Price Prediction.ipynb 
